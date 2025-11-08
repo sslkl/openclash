@@ -1,0 +1,204 @@
+# 系统与网络基础
+DOMAIN,ip.03k.org
+DOMAIN-SUFFIX,pool.ntp.org
+DOMAIN-SUFFIX,nist.gov
+DOMAIN-SUFFIX,letsencrypt.org
+DOMAIN-SUFFIX,digicert.com
+DOMAIN-SUFFIX,dyndns.org
+
+# Apple（苹果公司）
+DOMAIN-SUFFIX,aaplimg.com
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,apple.com.cn
+DOMAIN-SUFFIX,apple.com.akadns.net
+DOMAIN-SUFFIX,apple-cloudkit.com
+DOMAIN-SUFFIX,apple-dns.cn
+DOMAIN-SUFFIX,apple-dns.net
+DOMAIN-SUFFIX,cdn-apple.com
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,icloud.com.cn
+DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFFIX,icloud-content.com.cn
+DOMAIN-SUFFIX,itunes.com
+DOMAIN-SUFFIX,me.com
+DOMAIN-SUFFIX,mzstatic.com
+DOMAIN-SUFFIX,time.apple.com
+DOMAIN-SUFFIX,time-ios.apple.com
+DOMAIN-SUFFIX,push.apple.com
+
+# Microsoft（微软公司）
+DOMAIN,cn.bing.com
+DOMAIN-SUFFIX,msftncsi.com
+DOMAIN-SUFFIX,msftconnecttest.com
+DOMAIN-SUFFIX,ntp.msn.com
+DOMAIN-SUFFIX,time.windows.com
+DOMAIN-SUFFIX,clarity.ms
+DOMAIN-SUFFIX,gfx.ms
+DOMAIN-SUFFIX,hotmail.com
+DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,live.net
+DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,microsoft.net
+DOMAIN-SUFFIX,microsoft365.com
+DOMAIN-SUFFIX,microsoftonline.com
+DOMAIN-SUFFIX,microsoftpersonalcontent.com
+DOMAIN-SUFFIX,msedge.net
+DOMAIN-SUFFIX,msauth.net
+DOMAIN-SUFFIX,msftauth.net
+DOMAIN-SUFFIX,msocdn.com
+DOMAIN-SUFFIX,msn.com
+DOMAIN-SUFFIX,msn.cn
+DOMAIN-SUFFIX,office.com
+DOMAIN-SUFFIX,office.net
+DOMAIN-SUFFIX,office365.com
+DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,outlook.com
+DOMAIN-SUFFIX,sharepointonline.com
+DOMAIN-SUFFIX,skype.com
+DOMAIN-SUFFIX,spov-msedge.net
+DOMAIN-SUFFIX,t-msedge.net
+DOMAIN-SUFFIX,windows.com
+DOMAIN-SUFFIX,windows.net
+DOMAIN-SUFFIX,windowsupdate.com
+DOMAIN-SUFFIX,xbox.com
+DOMAIN-SUFFIX,xboxlive.com
+DOMAIN-SUFFIX,azure.com
+DOMAIN-SUFFIX,azureedge.net
+DOMAIN-SUFFIX,azurefd.net
+
+# 银行与支付体系
+DOMAIN-SUFFIX,ccb.com
+DOMAIN-SUFFIX,cmbchina.com
+DOMAIN-SUFFIX,cmbimg.com
+DOMAIN-SUFFIX,95516.com
+DOMAIN-SUFFIX,alipay.com
+DOMAIN-SUFFIX,citic.com
+DOMAIN-SUFFIX,cohc.citic
+
+# ☁阿里系（Alibaba Group）
+DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,tmall.com
+DOMAIN-SUFFIX,z.cn
+DOMAIN-SUFFIX,aliyun.com
+DOMAIN-SUFFIX,aliyundrive.com
+DOMAIN-SUFFIX,aliyundrive.net
+DOMAIN-SUFFIX,kunlunno.com
+DOMAIN-SUFFIX,kunlunar.com
+DOMAIN-SUFFIX,goofish.com
+
+# 腾讯系（Tencent）
+DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,qqmail.com
+DOMAIN-SUFFIX,qtlcdn.com
+DOMAIN-SUFFIX,qlogo.cn
+DOMAIN-SUFFIX,qpic.cn
+
+# 网易系（NetEase）
+DOMAIN-SUFFIX,127.net
+DOMAIN-SUFFIX,163.com
+DOMAIN-SUFFIX,netease.com
+DOMAIN-SUFFIX,icourse163.com
+
+# 京东（JD）
+DOMAIN-SUFFIX,jd.com
+DOMAIN-SUFFIX,jddebug.com
+
+# 拼多多
+DOMAIN-SUFFIX,pinduoduo.com
+
+# 特斯拉
+DOMAIN-SUFFIX,tesla.cn
+DOMAIN-SUFFIX,teslamate.com.cn
+
+# 小米生态
+DOMAIN-SUFFIX,api.ttt.sh
+DOMAIN-SUFFIX,mijia.tech
+DOMAIN-SUFFIX,miot-spec.org
+DOMAIN-SUFFIX,mitvos.com
+DOMAIN-SUFFIX,xiaoaisound.com
+DOMAIN-SUFFIX,dreame.tech
+
+# 游戏与娱乐
+DOMAIN-SUFFIX,steamcontent.com
+DOMAIN-SUFFIX,steamserver.net
+DOMAIN-SUFFIX,download.epicgames.com
+
+# DJI 大疆
+DOMAIN-SUFFIX,dji.com
+DOMAIN-SUFFIX,djicdn.com
+DOMAIN-SUFFIX,djiservice.org
+DOMAIN-SUFFIX,djiops.com
+DOMAIN-SUFFIX,djiits.com
+DOMAIN-SUFFIX,djigate.com
+DOMAIN-SUFFIX,dji.net
+
+# 视频与社交
+DOMAIN-SUFFIX,douyin.com
+DOMAIN-SUFFIX,douyinvod.com
+DOMAIN-SUFFIX,douyu.com
+DOMAIN-SUFFIX,douyucdn.com
+DOMAIN-SUFFIX,iqiyi.com
+DOMAIN-SUFFIX,youku.com
+DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,biliapi.net
+DOMAIN-SUFFIX,bilivideo.cn
+DOMAIN-SUFFIX,bilicdn1.com
+DOMAIN-SUFFIX,hdslb.com
+DOMAIN-SUFFIX,douban.com
+DOMAIN-SUFFIX,xiaohongshu.com
+DOMAIN-SUFFIX,xhs.cn
+DOMAIN-SUFFIX,xhscdn.com
+DOMAIN-SUFFIX,xhslink.com
+DOMAIN-SUFFIX,kuaishouzt.com
+DOMAIN-SUFFIX,zhihu.com
+DOMAIN-SUFFIX,vzuu.com
+
+# Synology 群晖
+DOMAIN-SUFFIX,quickconnect.to
+DOMAIN-SUFFIX,quickconnect.cn
+DOMAIN-SUFFIX,myds.me
+DOMAIN-SUFFIX,synocommunity.com
+DOMAIN-SUFFIX,sy.to
+DOMAIN-KEYWORD,synology
+
+# 通用 CDN / 技术服务
+DOMAIN-SUFFIX,akamaihd.net
+DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,akadns.net
+
+# 彩云天气
+DOMAIN-SUFFIX,caiyunapp.com
+DOMAIN-SUFFIX,caiyuncdn.com
+DOMAIN-SUFFIX,cyapi.cn
+DOMAIN-SUFFIX,colorfulclouds.net
+
+# 技术 / 教育 / 其他独立站
+DOMAIN-SUFFIX,chiphell.com
+DOMAIN-SUFFIX,deepseek.com
+DOMAIN-SUFFIX,eebbk.net
+DOMAIN-SUFFIX,gd2h.com
+DOMAIN-SUFFIX,gptsapi.net
+DOMAIN-SUFFIX,kujiale.com
+DOMAIN-SUFFIX,linux.cn
+DOMAIN-SUFFIX,mil.cn
+DOMAIN-SUFFIX,moredian.com
+DOMAIN-SUFFIX,nn.ci
+DOMAIN-SUFFIX,okii.com
+DOMAIN-SUFFIX,qiaohuapp.com
+DOMAIN-SUFFIX,shipxy.com
+DOMAIN-SUFFIX,tiancaixing.com
+DOMAIN-SUFFIX,verysync.cn
+DOMAIN-SUFFIX,volces.com
+DOMAIN-SUFFIX,x86pi.cn
+DOMAIN-SUFFIX,ykt.io
+
+# 其他杂项 / 工具
+DOMAIN-SUFFIX,300hu.com
+DOMAIN-SUFFIX,cdnhwc1.com
+DOMAIN-SUFFIX,cdnhwc2.com
+DOMAIN-SUFFIX,tdnsstic1.cn
+DOMAIN-SUFFIX,szbdyd.com
+DOMAIN-SUFFIX,bewildcard.co
+DOMAIN,clash.razord.top
+DOMAIN,yacd.haishan.me
+DOMAIN-SUFFIX,zerotier.com
